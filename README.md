@@ -1,5 +1,5 @@
 ## Hey, I'm Steven. 
-I live in Denver, CO. I enjoy hiking, cooking, and coding.  Thanks for viewing my profile.
+I live in Denver, CO. I enjoy hiking, lifting heavy weights, and coding.  Thanks for viewing my profile.
 
 ### Get In Touch
 <a href="mailto:stevenkosanke2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
