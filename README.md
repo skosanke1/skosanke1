@@ -1,5 +1,5 @@
 ## Hey, I'm Steven. 
-I live in Denver, CO. I enjoy hiking, lifting heavy weights, and coding.  Thanks for viewing my profile.
+I currently live in Denver, CO. I enjoy hiking, playing drums, and coding.  Thanks for viewing my profile.
 
 ### Get In Touch
 <a href="mailto:stevenkosanke2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
@@ -11,7 +11,10 @@ I live in Denver, CO. I enjoy hiking, lifting heavy weights, and coding.  Thanks
 ... and I'm always learning more
 
 ### My Top Project Repos
-* <a href="https://github.com/skosanke1/dogApp">Random Dog Generator Application</a> - App which provides dog pictures
+* <a href="https://github.com/skosanke1/QR-Gen">QR-Generator </a> - QR Code Generator Application
+* <a href="https://github.com/skosanke1/Easy_Math_For_Kids">Easy Math for Kids</a> - Web application for student's learning math
+* <a href="https://github.com/skosanke1/dogApp">dogApp</a> - Android app which fetches random photos dog photos and GIFs
+
 
 ### Stats
 
